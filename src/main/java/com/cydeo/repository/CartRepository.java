@@ -1,6 +1,6 @@
-package repository;
+package com.cydeo.repository;
 
-import model.Product;
+import com.cydeo.model.Product;
 
 public interface CartRepository {
     boolean addCartDatabase(Product product, int quantity);

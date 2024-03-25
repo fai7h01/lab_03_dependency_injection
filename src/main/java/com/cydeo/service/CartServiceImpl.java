@@ -1,8 +1,8 @@
-package service;
+package com.cydeo.service;
 
-import model.Cart;
-import model.Product;
-import repository.CartRepository;
+import com.cydeo.model.Cart;
+import com.cydeo.model.Product;
+import com.cydeo.repository.CartRepository;
 
 import java.math.BigDecimal;
 import java.util.HashMap;

@@ -1,6 +1,6 @@
-package service;
+package com.cydeo.service;
 
-import model.Product;
+import com.cydeo.model.Product;
 
 public class StockServiceImpl implements StockService{
     @Override
